@@ -3,8 +3,11 @@
 ## About Me:
 
 - 🌱 I’m currently learning **QA, Java** and studying in [**School 21**](https://21-school.ru/)
+
 - 📫 How to reach me: **n8kchrn@gmail.com**
+
 - ⚡ Fun fact: I have a Bachelor's Degree in Architecture
+
 - 🌍 Languages: **Russian** (native), **English** (B2),  **한국어** (~3-4급)
 
 
