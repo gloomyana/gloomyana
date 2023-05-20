@@ -9,9 +9,7 @@
 
 
 ## Languages & Tools I use:
-<div align="center">
 <a href="https://www.cprogramming.com"><img src="icons/c.svg" title="C" alt="C" width="50" height="50"/></a>
-
 <a href="https://isocpp.org"><img src="icons/cpp.svg" title="CPP" alt="CPP" width="50" height="50"/></a>
 <a href="https://www.java.com"><img src="icons/java.svg" title="Java" alt="Java" width="50" height="50"/></a>
 <a href="https://www.postgresql.org"><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></a>
@@ -31,12 +29,12 @@
 <a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
 <a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
+<a href="https://www.browserstack.com"><img src="icons/browserstack.svg" title="Browserstack" alt="Browserstack" width="50" height="50"/></a>
   
 <a href="https://www.adobe.com/products/photoshop.html"><img src="icons/ps.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/></a>
 <a href="https://www.adobe.com/products/illustrator.html"><img src="icons/ai.svg" title="Illustrator" alt="Illustrator" width="50" height="50"/></a>
 <a href="https://www.adobe.com/products/indesign.html"><img src="icons/id.svg" title="InDesign" alt="InDesign" width="50" height="50"/></a>
 <a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="50" height="50"/></a>
-</div>
 
 ## Let's get connected:
 [![Telegram](https://img.shields.io/badge/@gloomyjana-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gloomyjana)
