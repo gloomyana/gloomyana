@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2018 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="67.733mm" height="41.6768mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 5038.23 3100.07"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="67.7334mm" height="67.7334mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5038.32 5038.32"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil0 {fill:#FEFEFE}
-    .fil1 {fill:#1296DB}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:whitesmoke}
+    .fil2 {fill:#1296DB}
    ]]>
   </style>
  </defs>
  <g id="Слой_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2381505946496">
-   <polygon class="fil0" points="442.63,209.88 4703.58,209.88 4703.58,2952.51 442.63,2952.51 "/>
-   <path class="fil1" d="M4674.51 -0.01l-4310.81 0c-200.74,0 -363.71,162.92 -363.71,362.9l0 2373.48c0,200.74 162.97,363.7 363.71,363.7l4311.61 -0.04c200.75,0 363.71,-162.96 362.9,-362.9l0 -2374.24c0,-199.94 -162.96,-362.9 -363.7,-362.9zm-2009.77 2373.44l-484.13 0 0 -944.68 -484.13 605.39 -484.13 -605.39 0 944.68 -485.76 0 0 -1646.83 484.16 0 484.13 605.38 484.13 -605.38 484.16 0 0 1646.87 1.56 -0.04zm1065.09 24.41l-726.6 -847.83 484.16 0 0 -823.41 484.13 0 0 823.41 484.16 0 -725.85 847.83z" p-id="2241"/>
+  <path class="fil0" d="M1180.86 0l2676.61 0c652.06,0 1180.86,528.8 1180.86,1180.86l0 2676.61c0,652.05 -528.8,1180.85 -1180.86,1180.85l-2676.61 0.01c-652.05,-0.01 -1180.85,-528.81 -1180.85,-1180.86l-0.01 -2676.6c0.01,-652.06 528.81,-1180.86 1180.86,-1180.86z"/>
+  <g id="_2379465945216">
+   <polygon class="fil1" points="645.79,1310.1 4489.94,1310.1 4489.94,3784.44 645.79,3784.44 "/>
+   <path class="fil2" d="M4463.72 1120.74l-3889.14 0c-181.1,0 -328.13,146.98 -328.13,327.4l0 2141.3c0,181.1 147.02,328.13 328.13,328.13l3889.86 -0.04c181.1,0 328.13,-147.02 327.4,-327.4l0 -2141.99c0,-180.38 -147.02,-327.4 -328.13,-327.4zm-1813.18 2141.26l-436.76 0 0 -852.27 -436.77 546.17 -436.76 -546.17 0 852.27 -438.25 0 0 -1485.74 436.81 0 436.76 546.16 436.77 -546.16 436.8 0 0 1485.77 1.41 -0.04zm960.91 22.03l-655.53 -764.9 436.8 0 0 -742.86 436.76 0 0 742.86 436.8 0 -654.84 764.9z" p-id="2241"/>
   </g>
  </g>
 </svg>
