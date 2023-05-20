@@ -9,25 +9,30 @@
 
 
 ## Languages & Tools I use:
-  
-<a href="https://www.java.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" title="Java" alt="Java" width="50" height="50"/></a>
-<a href="https://isocpp.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="CPP" width="50" height="50"/></a>
-<a href="https://www.cprogramming.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="50" height="50"/></a>
-<a href="https://www.postgresql.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></a>
-<a href="https://www.docker.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
-<a href="https://git-scm.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50"/></a>
-<a href="https://about.gitlab.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" title="GitLab" alt="GitLab" width="50" height="50"/></a>
-<a href="https://www.gnu.org/software/bash"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" title="Bash" alt="Bash" width="50" height="50"/></a>
-<a href="https://www.qt.io"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Light.svg" title="QT" alt="QT" width="50" height="50"/></a>
-<a href="https://www.markdownguide.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Light.svg" title="Markdown" alt="Markdown" width="50" height="50"/></a>
-<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="Linux" alt="Linux" width="50" height="50"/></a>
-<a href="https://code.visualstudio.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VSCode" alt="VSCode" width="50" height="50"/></a>
-<a href="https://www.jetbrains.com/idea"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" title="Idea" alt="Idea" width="50" height="50"/></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/></a>
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Illustrator" alt="Illustrator" width="50" height="50"/></a>
-<a href="https://www.figma.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="50" height="50"/></a>
-<a href="https://gradle.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Light.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
-<a href="https://www.jenkins.io"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
+
+<a href="https://www.cprogramming.com"><img src="icons/c.svg" title="C" alt="C" width="45" height="45"/></a>
+<a href="https://isocpp.org"><img src="icons/cpp.svg" title="CPP" alt="CPP" width="45" height="45"/></a>
+<a href="https://www.java.com"><img src="icons/java.svg" title="Java" alt="Java" width="45" height="45"/></a>
+<a href="https://www.postgresql.org"><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/></a>
+<a href="https://www.docker.com"><img src="icons/docker.svg" title="Docker" alt="Docker" width="45" height="45"/></a>
+<a href="https://git-scm.com"><img src="icons/git.svg" title="Git" alt="Git" width="45" height="45"/></a>
+<a href="https://www.gnu.org/software/bash"><img src="icons/bash.svg" title="Bash" alt="Bash" width="45" height="45"/></a>
+<a href="https://www.qt.io"><img src="icons/qt.svg" title="QT" alt="QT" width="45" height="45"/></a>
+<a href="https://www.markdownguide.org"><img src="icons/md.svg" title="Markdown" alt="Markdown" width="45" height="45"/></a>
+<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git"><img src="icons/linux.svg" title="Linux" alt="Linux" width="45" height="45"/></a>
+<a href="https://selenide.org"><img src="icons/selenide.svg" title="Selenide" alt="Selenide" width="45" height="45"/></a>
+<a href="https://www.selenium.dev"><img src="icons/selenuim.svg" title="Selenium" alt="Selenium" width="45" height="45"/></a>
+<a href="https://gradle.org"><img src="icons/gradle.svg" title="Gradle" alt="Gradle" width="45" height="45"/></a>
+<a href="https://rest-assured.io"><img src="icons/rest_assured.svg" title="REST Assured" alt="REST Assured" width="45" height="45"/></a>
+<a href="https://www.jenkins.io"><img src="icons/jenkins.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="45" height="45"/></a>
+<a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="45" height="45"/></a>
+<a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="45" height="45"/></a>
+
+<a href="https://www.adobe.com/products/photoshop.html"><img src="icons/ps.svg" title="Photoshop" alt="Photoshop" width="45" height="45"/></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="icons/ai.svg" title="Illustrator" alt="Illustrator" width="45" height="45"/></a>
+<a href="https://www.adobe.com/products/indesign.html"><img src="icons/id.svg" title="InDesign" alt="InDesign" width="45" height="45"/></a>
+<a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="45" height="45"/></a>
 
 
 ## Let's get connected:
