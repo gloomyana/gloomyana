@@ -28,8 +28,7 @@
 <a href="https://www.jenkins.io"><img src="icons/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>
 <a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/></a>
-<a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="40" height="40"/></a>
-<a href="https://www.browserstack.com"><img src="icons/browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/></a><br>
+<a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="40" height="40"/></a><br>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="icons/ps.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/illustrator.html"><img src="icons/ai.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/indesign.html"><img src="icons/id.svg" title="InDesign" alt="InDesign" width="40" height="40"/></a>
