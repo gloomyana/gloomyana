@@ -33,6 +33,6 @@
 <a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
 
 ## Let's get connected:
-[![Telegram](https://img.shields.io/badge/@gloomyjana-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gloomyjana)
+[![Telegram](https://img.shields.io/badge/@gloomyjana-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gloomyana)
 [![Instagram](https://img.shields.io/badge/@gl8myana-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gl8myana)
 [![VK](https://img.shields.io/badge/@akchur1na-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/akchur1na)
