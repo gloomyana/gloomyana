@@ -36,6 +36,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloomyana&repo=demo_webinar_tests)](https://github.com/gloomyana/demo_webinar_tests)
 
 ## Let's get connected:
-[![Telegram](https://img.shields.io/badge/@gloomyjana-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gloomyana)
+[![Telegram](https://img.shields.io/badge/@gloomyana-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gloomyana)
 [![Instagram](https://img.shields.io/badge/@gl8myana-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gl8myana)
 [![VK](https://img.shields.io/badge/@akchur1na-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/akchur1na)
