@@ -33,7 +33,7 @@
 <a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
 
 ## Projects:
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloomyana&repo=demo_webinar_tests)](https://github.com/gloomyana/demo_webinar_tests)
 
 ## Let's get connected:
 [![Telegram](https://img.shields.io/badge/@gloomyjana-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gloomyana)
