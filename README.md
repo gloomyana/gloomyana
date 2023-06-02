@@ -6,8 +6,8 @@
 - 🌍 Languages: **Русский**, **English** (B1-B2),  **한국어** (~3-4급)
 - ⚡ Fun fact: I have a Bachelor's Degree in Architecture
 
-
 ## Languages & Tools I use:
+
 <a href="https://www.cprogramming.com"><img src="icons/c.svg" title="C" alt="C" width="40" height="40"/></a>
 <a href="https://isocpp.org"><img src="icons/cpp.svg" title="CPP" alt="CPP" width="40" height="40"/></a>
 <a href="https://www.java.com"><img src="icons/java.svg" title="Java" alt="Java" width="40" height="40"/></a>
@@ -31,6 +31,9 @@
 <a href="https://www.adobe.com/products/illustrator.html"><img src="icons/ai.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/indesign.html"><img src="icons/id.svg" title="InDesign" alt="InDesign" width="40" height="40"/></a>
 <a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
+
+## Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloomyana&repo=demo_webinar_tests)](https://github.com/gloomyana/demo_webinar_tests)
 
 ## Let's get connected:
 [![Telegram](https://img.shields.io/badge/@gloomyjana-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/gloomyana)
